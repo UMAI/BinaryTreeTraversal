@@ -14,11 +14,10 @@ An algorithm which can rebuild binary tree from two of it's traversals (INORDER 
 ->set number  
 ->remaining traversal (PRE/POST ORDER)  
 ->LEVELORDER traversal  
+->...  
 
 ### Complexity
 
 #### Time
 
-
-
-#### Space
+O(n^2)
