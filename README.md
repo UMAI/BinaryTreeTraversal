@@ -1,19 +1,24 @@
 # BinaryTreeTraversal
 
-An algorithm which can rebuild binary tree from two of it's traversals (INORDER and POST/PRE ORDER)
+An algorithm which can rebuild binary tree from two of it's traversals (INORDER and POST/PRE ORDER).
 
 ### Input data:
 
-->number of sets
-->inorder traversal of 1st set
-->post/pre order traversal of 1st set
-->...
+->number of sets  
+->post/pre order traversal of 1st set  
+->inorder traversal of 1st set  
+->...  
 
 ### Output data:
 
-->set number
-->remaining traversal (PRE/POST ORDER)
-->LEVELORDER traversal
+->set number  
+->remaining traversal (PRE/POST ORDER)  
+->LEVELORDER traversal  
 
 ### Complexity
 
+#### Time
+
+
+
+#### Space
